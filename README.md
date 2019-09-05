@@ -9,9 +9,10 @@ recognition.py opens the Pepper robots camera and gets images from the robot's c
 ### Training with your own data:
 Please follow the instructions in the [link](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#3)
 ### Using the trained model with my classes:
-The trained files are given in the [link](https://www.dropbox.com/sh/8v5i616qppfdewr/AADK2wx-jG4Ivl2iyOJ5gGjQa?dl=0)
-Download the files and unzip in your computer. Change the path of the files in recognition.py
-Run recognition.py by python recognition.py
-If you have not install NAOqi SDK and you would like to use with Nao or Pepper, see installation instructions in the [link](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
+- The trained files are given in the [link](https://www.dropbox.com/sh/8v5i616qppfdewr/AADK2wx-jG4Ivl2iyOJ5gGjQa?dl=0)
+- Download the files and unzip in your computer. 
+- Change the path of the files in recognition.py
+- Run recognition.py by `python recognition.py`
+- If you have not install NAOqi SDK and you would like to use with Nao or Pepper, see installation instructions in the [link](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
 
 
