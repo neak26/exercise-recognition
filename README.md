@@ -13,6 +13,6 @@ Please follow the instructions in the [link](https://codelabs.developers.google.
 - Download the files and unzip in your computer. 
 - Change the path of the files in recognition.py
 - Run recognition.py by `python recognition.py`
-- If you have not install NAOqi SDK and you would like to use with Nao or Pepper, see installation instructions in the [link](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
+- If you have not installed NAOqi SDK and you would like to use with Nao or Pepper, see installation instructions in the [link](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
 
 
