@@ -7,7 +7,7 @@ We collected data from 25 persons; each person repeated each arm motion 5 times.
 ### Training with your own data:
 Please follow the instructions in the [link](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#3)
 ### Using the trained model with my classes:
-recognition.py opens the Pepper robots camera and gets images from the robot's camera. It loads the pre-trained models and labels. 
+recognition.py opens the Pepper robot's camera and gets images from the robot's camera. It loads the pre-trained models and labels. 
 
 - The trained files are given in the [link](https://www.dropbox.com/sh/8v5i616qppfdewr/AADK2wx-jG4Ivl2iyOJ5gGjQa?dl=0)
 - Download the files and unzip in your computer. 
